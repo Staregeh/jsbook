@@ -1,8 +1,8 @@
-#JSBook
-
-##Overview
+# JSBook
 
 JSBook is a simple social media, which was created to practice my skills. App uses MERN stack.
+
+## Overview
 
 On the frontend app uses ReactJS, Redux and MUI components.
 
